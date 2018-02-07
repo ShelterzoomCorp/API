@@ -17,3 +17,7 @@ Add widget to the property pages: https://github.com/ShelterzoomCorp/API/wiki/Ad
 Another way to become an affiliated member of ShelterZoom is send a specific request directly to us. Process described here: https://github.com/ShelterzoomCorp/API/wiki/Partner-Program-Request
 
 If you do not want to use our affiliated admin area you can integrate ShelterZoom with your own system by following this guide: https://github.com/ShelterzoomCorp/API/wiki/Custom-authorization-form
+
+# Next steps
+
+After recieving your API keys please follow the integration instructions here: https://github.com/ShelterzoomCorp/API/wiki
