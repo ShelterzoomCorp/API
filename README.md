@@ -13,7 +13,7 @@ Add your properties to ShelterZoom Database. The process is described in details
 
 Add widget to the property pages: https://github.com/ShelterzoomCorp/API/wiki/Adding-ShelterZoom-widget-to-a-website
 
-## Via manual request
+## Via direct request
 Another way to become an affiliated member of ShelterZoom is send a specific request directly to us. Process described here: https://github.com/ShelterzoomCorp/API/wiki/Partner-Program-Request
 
 If you do not want to use our affiliated admin area you can integrate ShelterZoom with your own system by following this guide: https://github.com/ShelterzoomCorp/API/wiki/Custom-authorization-form
