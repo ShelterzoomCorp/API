@@ -3,7 +3,7 @@
 In order to use ShelterZoom API you need to become ShelterZoom affiliated member. 
 
 ## Via website request
-To become an affiliated member of ShelterZoom, you should register as Affiliate on ShelterZoom website (https://www.shelterzoom.com/signup-affiliated/);
+To become an affiliated member of ShelterZoom, you should register as Affiliate on ShelterZoom website (https://www.shelterzoom.com/signup/);
 
 Once your request has been processed by ShelterZoom integration team you will receive a login and password from your affiliated admin area (https://partner.shelterzoom.com/) to the email you provided during registration;
 
